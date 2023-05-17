@@ -18,3 +18,9 @@ https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 ##New Technology:
 
 - I tried out Modern Data Pipeine Tool - https://www.mage.ai/ and tried to ontibute to this open source project - https://github.com/mage-ai/mage-ai
+
+-I got this challenhe on Zindi.
+
+Whats left:
+
+The dashboard, I am going to use PowerBi or Tableui.
