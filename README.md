@@ -9,7 +9,7 @@ The goal of this project is to perform data analytics on data using various tool
 
 https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 
-##SQL 
+## SQL 
 
 - Finding the top 10 Pickup locations based on the number of trips.
 - Finding the total number of trips by passenger count.
